@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m Usman Ali, a Senior Software Engineer with 4+ years of experience designing and building scalable backend systems using 🐍 Python, Django, and Django REST Framework. I focus on creating clean, efficient APIs 🚀 and enjoy working with Docker 🐳 and reliable databases like PostgreSQL 🗄️. 💼 I’ve worked on projects in Fintech, E-commerce, Blockchain, SaaS, and AI. 🌱 I’m always eager to learn new technologies and deliver quality software. Feel free to connect or collaborate on exciting projects! 💡
+👋 Hi! I’m Usman Ali, a Senior Software Engineer with 4+ years of experience designing and building scalable backend systems using 🐍 Python, Django, and Django REST Framework. I focus on creating clean, efficient APIs 🚀 and enjoy working with Docker 🐳 and reliable databases like PostgreSQL 🗄️. I’ve worked on projects in Fintech, E-commerce, Blockchain, SaaS, and AI. I’m always eager to learn new technologies and deliver quality software. Feel free to connect or collaborate on exciting projects! 💡
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usmanali99) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@usmanali.3099) 
