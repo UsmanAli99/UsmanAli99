@@ -31,13 +31,16 @@ I'm passionate about solving complex engineering challenges, continuously learni
 ![Retell AI](https://img.shields.io/badge/Retell_AI-FF4088?style=for-the-badge&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=UsmanAli99&theme=dark&hide_border=true)<br/>
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=UsmanAli99&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanAli99&layout=compact&theme=github_dark&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=UsmanAli99&theme=github-dark&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UsmanAli99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=UsmanAli99&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=UsmanAli99&theme=algolia&no-frame=true&margin-w=10)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
