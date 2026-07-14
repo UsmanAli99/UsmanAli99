@@ -1,11 +1,13 @@
 # 💫 About Me:
-👋 Hi! I’m Usman Ali, a Senior Software Engineer with 4+ years of experience designing and building scalable backend systems using 🐍 Python, Django and Django REST Framework.
+👋 Hi! I'm **Usman Ali**, a **Senior Backend Engineer** with **5+ years of experience** designing and building scalable backend systems using **Python, Django, Django REST Framework, FastAPI, PostgreSQL, AWS, Docker, and Redis**.
 
-I specialize in developing clean, efficient, and secure APIs 🚀, leveraging tools like 🐳 Docker, 🗄️ PostgreSQL, and Redis to build high-performance backend solutions.
+Throughout my career, I've built production-grade backend solutions across **Fintech, SaaS, E-commerce, Real Estate, Blockchain, Booking Platforms, and AI-powered products**. I enjoy designing clean APIs, architecting scalable services, optimizing databases, integrating third-party platforms, and building reliable systems that power business-critical applications.
 
-In the Generative AI space, I’ve worked with FastAPI to build and deploy AI-driven chat and voice agents, gaining hands-on experience with Prompt Engineering, LangChain, LangGraph, RAG, PydanticAI, MCP Servers, and Retell AI — enabling natural, context-aware conversations powered by intelligent systems.
+Beyond backend development, I actively contribute to **system design, software architecture, technical leadership, code reviews, mentoring engineers, technical interviewing, and cross-functional collaboration** to help teams deliver high-quality software.
 
-I’m always eager to learn, experiment, and collaborate on innovative projects that push boundaries and deliver real impact. Let’s connect and build something great! 💡
+I also have hands-on experience building the backend infrastructure that powers modern AI applications, including **agent orchestration, RAG pipelines, context management, AI evaluation workflows, human-in-the-loop systems, and production AI integrations**. I regularly leverage AI-assisted engineering tools such as **Claude Code, Cursor, Codex, and agentic development workflows** to accelerate software delivery and improve engineering productivity.
+
+I'm passionate about solving complex engineering challenges, continuously learning new technologies, and building scalable software that creates real-world impact. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/usmanali99) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@usmanali.3099) 
