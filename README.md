@@ -39,8 +39,4 @@ I'm passionate about solving complex engineering challenges, continuously learni
 
 ![](https://streak-stats.demolab.com?user=UsmanAli99&theme=github-dark&hide_border=true)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=UsmanAli99&theme=algolia&no-frame=true&margin-w=10)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
